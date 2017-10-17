@@ -1,0 +1,28 @@
+{
+    "resumea": {
+      "name": "张广潮",
+      "note": "一个热爱开发喜欢写优雅代码的个人爱好者"
+    },
+    "introduction":{
+        "title":"自我介绍",
+        "main":["我是一个积极向上、做事认真的人。",
+        
+        "我喜欢研究各种技术，具有Geek精神。我学习、接受能力强，乐于学习各种新技术，了解 C、java 等语言，具备良好的编程基础，后转向学习前端。",
+        
+        "一年前端开发代码经验，熟悉 HTML、CSS、Javascript，熟练使用 Vue 框架开发 SPA。具有良好的编码习惯。"],
+        "more":[{"mode":"姓名","value":"张广潮"},{"mode":"性别","value":"男"},{"mode":"学历","value":"本科"},{"mode":"出生年月","value":"1987.8"},{"mode":"开发经验","value":"1年"},{"mode":"应聘职位","value":"前端工程师"},{"mode":"其他爱好","value":"足球"},{"mode":"家庭住址","value":"上海长宁"}]
+      },
+    "skill":[
+      ["Javascript","0"],["HTML 5","0"],["Stylus","1"],["CSS 3","0"],["Git","1"],["JSON","0"],["Vue.js","0"],["node.js","1"],["React.js","1"],["Webpack","1"],["jQuery","1"],["VS code","0"],["Ajax","1"]
+    ],
+    "works":[
+      {"name":"个人主页","detail":"利用Vue框架制作的一个个人简历样式的网页","more":"这是一个利用Vue框架开发的一个个人主页，充分发挥了Vue组件式开发、数据驱动的特性，可作为一个简历模板使用。","image":"webpage","url":"http://coriegg.cn/","github":"https://github.com/z3plus2/resume"},
+      {"name":"计算器","detail":"只有一个Html文件的计算器网页，不加载任何额外内容","more":"这是一个单HMTL页面的计算器，所有CSS、js都在页面内，不加载其他文件。","image":"cal","url":"http://coriegg.cn/cal2","github":"https://github.com/z3plus2/cal"}
+    ],
+    "experience":[
+      {"unit":"上海电机学院","post":"材料成型及控制工程","time":"2005-2009"},{"unit":"上海造币有限公司","post":"电脑组","time":"2009-至今"}
+    ],
+    "contact":[
+      {"way":"phone","number":"18001697113"},{"way":"email","number":"z3plus2@gmail.com"},{"way":"github","number":"https://github.com/z3plus2"},{"way":"homepage","number":"http://coriegg.cn"}
+    ]
+ }
